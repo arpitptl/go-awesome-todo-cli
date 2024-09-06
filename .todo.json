@@ -1,0 +1,12 @@
+[
+  {"Task":"Take a break","Completed":false,"CreatedAt":"2024-09-06T12:03:25.329516+05:30","CompletedAt":"0001-01-01T00:00:00Z"},
+  {"Task":"Go to Gym","Completed":true,"CreatedAt":"2024-09-06T12:03:55.360944+05:30","CompletedAt":"2024-09-06T12:06:11.793328+05:30"},
+  {"Task":"Go out","Completed":false,"CreatedAt":"2024-09-06T12:04:04.072703+05:30","CompletedAt":"0001-01-01T00:00:00Z"},
+  {"Task":"Send Email","Completed":false,"CreatedAt":"2024-09-06T14:30:00.000000+05:30","CompletedAt":"0001-01-01T00:00:00Z"},
+  {"Task":"Call mom","Completed":true,"CreatedAt":"2024-09-06T15:00:00.000000+05:30","CompletedAt":"2024-09-06T15:15:00.000000+05:30"},
+  {"Task":"Finish report","Completed":false,"CreatedAt":"2024-09-06T16:00:00.000000+05:30","CompletedAt":"0001-01-01T00:00:00Z"},
+  {"Task":"Play Cricket","Completed":true,"CreatedAt":"2024-09-06T17:00:00.000000+05:30","CompletedAt":"2024-09-06T18:00:00.000000+05:30"},
+  {"Task":"Read a book","Completed":false,"CreatedAt":"2024-09-06T19:00:00.000000+05:30","CompletedAt":"0001-01-01T00:00:00Z"},
+  {"Task":"Pay bills","Completed":true,"CreatedAt":"2024-09-06T20:00:00.000000+05:30","CompletedAt":"2024-09-06T20:15:00.000000+05:30"},
+  {"Task":"Plan weekend","Completed":false,"CreatedAt":"2024-09-06T21:00:00.000000+05:30","CompletedAt":"0001-01-01T00:00:00Z"}
+]
